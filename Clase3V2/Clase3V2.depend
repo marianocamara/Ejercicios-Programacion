@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503612222 source:d:\mc\epyl\clase3v2\main.c
+	<stdio.h>
+	<stdlib.h>
+
