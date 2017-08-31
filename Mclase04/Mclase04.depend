@@ -17,3 +17,21 @@
 	<stdlib.h>
 	"Consola.h"
 
+1504151110 source:c:\users\matias.camara\desktop\mariano\github\ejercicios-programacion\mclase04\calculadora.c
+	"Calculadora.h"
+
+1504151110 c:\users\matias.camara\desktop\mariano\github\ejercicios-programacion\mclase04\calculadora.h
+
+1504151110 source:c:\users\matias.camara\desktop\mariano\github\ejercicios-programacion\mclase04\consola.c
+	<stdio.h>
+	<stdlib.h>
+	"Consola.h"
+
+1504151110 c:\users\matias.camara\desktop\mariano\github\ejercicios-programacion\mclase04\consola.h
+
+1504151110 source:c:\users\matias.camara\desktop\mariano\github\ejercicios-programacion\mclase04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+	"Consola.h"
+

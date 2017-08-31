@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1504141164 source:c:\clase_5\lib.c
+	"Lib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1504141164 c:\clase_5\lib.h
+
+1504141298 source:c:\clase_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib.h"
+
+1504156776 source:c:\users\matias.camara\desktop\mariano\github\ejercicios-programacion\mclase05v2\clase_5\lib.c
+	"Lib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1504156832 c:\users\matias.camara\desktop\mariano\github\ejercicios-programacion\mclase05v2\clase_5\lib.h
+
+1504156162 source:c:\users\matias.camara\desktop\mariano\github\ejercicios-programacion\mclase05v2\clase_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib.h"
+
